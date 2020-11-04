@@ -1,4 +1,4 @@
-console.log('Client site java script is loaded up!!')
+//console.log('Client site java script is loaded up!!')
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
 //     response.json().then((data) => {
 //         console.log(data)
